@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Developed an online shop using React',
             imageUrl: 'https://placehold.co/600x400/0f172a/67e8f9?text=React+App',
             githubUrl: 'https://github.com/maynoralex/crw-clothing',
-            liveDemoUrl: 'https://jolly-souffle-2e9c19.netlify.app',
+            liveDemoUrl: 'https://jolly-souffle-2e9c19.netlify.app'
         },
     ];
 
