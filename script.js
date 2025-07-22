@@ -42,11 +42,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 3,
-            title: 'Angular Hotel Angular App',
-            description: 'Developed a simple hotel app using Angular 19.',
-            imageUrl: 'https://placehold.co/600x400/0f172a/67e8f9?text=Angular+Hotel+App',
-            githubUrl: 'https://github.com/maynoralex/hotel',
-            liveDemoUrl: 'https://maynoralex.github.io/hotel/',
+            title: 'CRWN React Web APP',
+            description: 'Developed an online shop using React',
+            imageUrl: 'https://placehold.co/600x400/0f172a/67e8f9?text=React+App',
+            githubUrl: 'https://github.com/maynoralex/crw-clothing',
+            liveDemoUrl: 'https://jolly-souffle-2e9c19.netlify.app',
         },
     ];
 
